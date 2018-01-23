@@ -1,9 +1,14 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.26228.4
+VisualStudioVersion = 15.0.27004.2005
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Angular_ASPNET_Core_Seed", "Angular_ASPNETCore_Seed\Angular_ASPNETCore_Seed.csproj", "{660574F3-9489-4BF0-AAC0-9074065B0314}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Angular_ASPNETCore_Seed", "Angular_ASPNETCore_Seed\Angular_ASPNETCore_Seed.csproj", "{660574F3-9489-4BF0-AAC0-9074065B0314}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{DED3DAEE-7412-4D41-A404-C66D4E709A6A}"
+	ProjectSection(SolutionItems) = preProject
+		ReadMe.txt = ReadMe.txt
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +23,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EE7BD9D-696A-4634-9D6A-79C91FC62AA4}
 	EndGlobalSection
 EndGlobal

@@ -1,4 +1,4 @@
-﻿Work log
+Work log
 ********************
 Date: 1/22/2018
 Project: Seed Project By Dan Wahlin
